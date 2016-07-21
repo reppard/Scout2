@@ -1,4 +1,0 @@
-#!/bin/sh
-set -e
-python Scout2.py --json >/dev/null
-cat results.json
